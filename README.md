@@ -1,4 +1,4 @@
-# W266-Final_Project
+# W266 FinalProject
 This repository contains the code and report for my W266 Final Project
 
 Abstract
